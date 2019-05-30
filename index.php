@@ -5,4 +5,6 @@ ickey.cn
 国内交货
 ECCN国内禁运
 t_user
+YII_ENV
+eos.ickey.
 ';
